@@ -14,10 +14,10 @@
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or **CSS**.
 - ⚡ Fun fact: I love working on **challenging problems** and enjoy **coding competitions**.
 - 🎯 My goal: **Build meaningful software that makes a difference.**
--  
+  
 ---
 ## 🎓 Education
-- **.** B.Sc. in Computer Science and Engineering, University of Moratuwa, Sri Lanka
+-  B.Sc. in Computer Science and Engineering, University of Moratuwa, Sri Lanka
 
 
 <!-- Skills -->
