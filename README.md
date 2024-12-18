@@ -56,7 +56,7 @@
 <p align="center">
   <a href="jayawardhanasandali2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sandali-sathsarani-jayawardhana-913372265"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sandali0726"><img src="https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
