@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m a **Full Stack Developer** exploring web technologies.
-- 🌱 I’m currently learning **MERN Stack** and expanding my skills.
+- 🌱 I’m currently learning **Full Stack Web Development** and expanding my skills.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or **CSS**.
 - ⚡ Fun fact: I love working on **challenging problems** and enjoy **coding competitions**.
 - 🎯 My goal: **Build meaningful software that makes a difference.**
