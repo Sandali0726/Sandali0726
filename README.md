@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi there, I'm Sandali0726!</h1>
+<h1 align="center">👋 Hi there, I'm Sandali!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Code+%26+Technology;Eager+to+Learn+and+Collaborate" alt="Typing SVG" />
 </p>
