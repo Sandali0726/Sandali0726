@@ -67,3 +67,4 @@
 ---
 
 <!-- Footer -->
+<p align="center">✨ "Code. Innovate. Inspire." ✨</p>
