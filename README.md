@@ -1,9 +1,8 @@
 <!-- Header -->
-<h1 align="center">👾 [Your Name]</h1>
+<h1 align="center">Sandali Jayawardhana </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/placeholder-image.png" alt="Matrix-themed banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Code+%26+Technology;Eager+to+Learn+and+Collaborate" alt="Typing SVG" />
 </p>
-<p align="center">FULLSTACK DEVELOPER</p>
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
