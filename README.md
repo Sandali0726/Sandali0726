@@ -1,11 +1,9 @@
 <!-- Header -->
-<!-- Header -->
-<h1 align="center"> Sandali Jayawardhana</h1>
+<h1 align="center">👾 [Your Name]</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Tech+and+Innovation;Eager+to+Learn+and+Create" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/placeholder/placeholder-image.png" alt="Matrix-themed banner" />
 </p>
-
----
+<p align="center">FULLSTACK DEVELOPER</p>
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
