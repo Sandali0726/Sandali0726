@@ -45,8 +45,11 @@
 </p>
 
 <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sandali0726&theme=dark" alt="GitHub Streak" /></a>
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandali0726&theme=dark" alt="GitHub Streak" />
+</p>
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandali0726&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
