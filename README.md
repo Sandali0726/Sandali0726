@@ -46,7 +46,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Sandali0726&theme=dark)](https://git.io/streak-stats)" />
+  <img src="!Sandali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandali0726&show_icons=true&theme=transparent)" />
 </p>
 
 <!-- Most Used Languages -->
