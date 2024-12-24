@@ -48,7 +48,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandali0726&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sandali0726)](https://git.io/streak-stats)
 </p>
 
 <!-- Most Used Languages -->
