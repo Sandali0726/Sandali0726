@@ -40,20 +40,7 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandali0726&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Streak -->
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sandali0726&theme=dark" alt="GitHub Streak" />
-</p>
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandali0726&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
-</p>
+<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Sandali0726&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </p> <p align="center"> <!-- GitHub Streak --> <img src="https://streak-stats.demolab.com?user=Sandali0726&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandali0726&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" /> </p>
 
 <!-- Contact -->
 ## 📧 Connect with Me
