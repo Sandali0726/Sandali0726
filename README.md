@@ -32,17 +32,30 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Arduino-%230097A7.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
 
-<!-- Stats and Badges -->
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandali0726&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandali0726&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandali0726&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" />
+</p>
 
-<!-- GitHub Stats -->
-<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Sandali0726&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </p> <p align="center"> <!-- GitHub Streak --> <img src="https://streak-stats.demolab.com?user=Sandali0726&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandali0726&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" /> </p>
+---
 
-<!-- Contact -->
 ## 📧 Connect with Me
 <p align="center">
   <a href="mailto:jayawardhanasandali2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -53,5 +66,4 @@
 
 ---
 
-<!-- Footer -->
 <p align="center">✨ "Code. Innovate. Inspire." ✨</p>
