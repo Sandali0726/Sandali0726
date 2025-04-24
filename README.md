@@ -62,9 +62,7 @@
 <p align="center">
   <a href="mailto:jayawardhanasandali2@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/sandali-sathsarani-jayawardhana-913372265/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a>
-  <a href="https://youtube.com/@UCwNp68wv5e2CszHJsnC7Z4A" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" title="YouTube" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/profile/SSJ_LIFE" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" title="HackerRank" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/profile/SSJ_LIFE"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandali" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/SSJ_LIFE"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandali" height="40" width="40" /></a>
 </p>
 
 ---
