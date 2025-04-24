@@ -67,5 +67,13 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sandali0726&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sandali0726&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sandali0726&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <p align="center">✨ "Code. Innovate. Inspire." ✨</p>
