@@ -75,6 +75,9 @@
   <a href="https://stackoverflow.com/users/31632749/sandali-jayawardhana?tab=profile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
+  <a href="https://medium.com/@jayawardhanasandali2" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433257.png" title="Medium" width="40" height="40"/> 
+  </a>
 </p>
 
 
