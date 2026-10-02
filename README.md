@@ -78,6 +78,8 @@
   <a href="https://medium.com/@jayawardhanasandali2" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433257.png" title="Medium" width="40" height="40"/> 
   </a>
+  <a href="https://www.kaggle.com/sandalijayawardhana" target="_blank">
+   <img width="830" height="377" alt="Image" src="5da086-93b8-4dd6https://github.com/user-attachments/assets/31-9fa4-e90939621c43" />
 </p>
 
 
