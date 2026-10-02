@@ -79,7 +79,8 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433257.png" title="Medium" width="40" height="40"/> 
   </a>
   <a href="https://www.kaggle.com/sandalijayawardhana" target="_blank">
-   <img width="830" height="377" alt="Image" src="5da086-93b8-4dd6https://github.com/user-attachments/assets/31-9fa4-e90939621c43" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" />
+</a>
 </p>
 
 
